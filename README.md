@@ -57,4 +57,4 @@ Forecasts disease outbreak surges and predicts medicine/bed stock-outs using ano
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](linkedin.com/in/evans-njenga-8b00232a6)
+[![LinkedIn](https://www.linkedin.com/in/evans-njenga-8b00232a6/)
