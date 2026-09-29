@@ -45,16 +45,5 @@ Forecasts disease outbreak surges and predicts medicine/bed stock-outs using ano
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustTrying652&show_icons=true&theme=default" alt="Evans's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustTrying652" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://www.linkedin.com/in/evans-njenga-8b00232a6/)
